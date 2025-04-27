@@ -1,0 +1,8 @@
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+7+ years of professional experience in frontend development.
+Proficiency in JavaScript, HTML5, and CSS3.
+Experience with modern JavaScript frameworks/libraries such as React, Angular, or Vue.js (React preferred).
+Familiarity with RESTful APIs and integrating frontend applications with backend services.
+Knowledge of version control systems like Git.
+Strong understanding of responsive and mobile-first design principles.
+Excellent problem-solving skills and attention to detail.
