@@ -14,11 +14,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Start the app with:
+Start the server with:
 
 ```bash
-python main.py
+uvicorn main:app --reload
 ```
+
+The API will be available at: `http://localhost:8000`
 
 ---
 
